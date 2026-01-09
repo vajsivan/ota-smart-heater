@@ -1,4 +1,4 @@
 {
   "version": 2,
-  "bin": "https://github.com/vajsivan/mesp32-matter-heater/releases/download/v2/matter_smart_heater.ino.bin"
+  "bin": "https://github.com/vajsivan/ota-smart-heater/releases/download/v1/matter_smart_heater.ino.bin"
 }
