@@ -5,7 +5,7 @@ ota proces kako se koristi:
 - Ako je sve uspesno uredjaj ce se restartovati i portal zatvotiti ako je matter comissioned.
 - Ukoliko nije ok, nakon sledeceg otvaranja portala ce pisati ota greska.
 - Portal mora da se zatvori kada krene download bin. Greske pre toga se prikazuju live.
-- Ukoliko se host menja, treba i manifest menjati zbog bin fajla. Takodje verzija u novim build treba da se poklapa sa novom verzijom iz manifest fajla.
+- Ukoliko se host menja, treba manifest menjati zbog bin fajla, treba u skripti setovati host bog url. Takodje verzija u novim build treba da se poklapa sa novom verzijom iz manifest fajla.
 
 run in terminal:
 cd /Users/vajsi/Documents/esp32/ota-smart-meter-public/docs
